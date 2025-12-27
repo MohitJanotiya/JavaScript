@@ -21,3 +21,18 @@ console.log(typeof(b))
 let y ;
 console.log(typeof(Y))
 
+let firstname = "mohit"
+let age = 22
+console.log(`name is ${firstname} and age is ${age}`)
+console.log("name is " , firstname , "age is " , age) 
+console.log(typeof(age))
+console.log("hello"+ 10 +20)
+console.log( 10 + 20 +" " +"hello") 
+
+
+// not a Number
+let z ;
+console.log(10 + z)
+console.log(typeof(NaN))
+
+
