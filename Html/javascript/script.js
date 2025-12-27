@@ -16,3 +16,4 @@ console.log(a)
 const pi = 3.14
 console.log(pi)     
 
+a
